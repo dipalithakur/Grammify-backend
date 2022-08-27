@@ -1,0 +1,2 @@
+chalice==1.27.1
+language-tool-python==2.7.1
